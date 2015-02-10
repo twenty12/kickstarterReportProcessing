@@ -1,7 +1,7 @@
 Job Notes and Documentation for Public Radio
 --------------------------------------------
 
-**Problem:** There are an unknown number of backers who have misunderstood the operating conditions of Public Radio. These backers have requested radios tuned to stations far outside their area of reception.
+**Problem:** There are an unknown number of backers who have misunderstood the operating conditions of [Public Radio](https://www.kickstarter.com/projects/358468212/the-public-radio-the-single-station-fm-radio). These backers have requested radios tuned to stations far outside their area of reception.
 
 **Delivered Solution:** 
 
