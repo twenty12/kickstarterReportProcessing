@@ -1,0 +1,2 @@
+id,name,email,country,min_reward,pledge,status,notes,ship_name,address_1,address_2,city,zip,ship_country,state,station_freq,station_call,cleaned_frequency,cleaned_call,backer_lat,backer_lng,rad_lat,rad_lng,distance,db
+3,John Doe,Johnd@gmail.com,US,$0.00 USD,$48.00 USD,collected,,John Doe,315 Seigel St. St Apt 8,,Brooklyn,NY,11206,United States,97.1,WQHT,97,WQHT,40.70577,-73.933941,40.748333,-73.986111,6.4595431924051185,0.0006898035161743087
