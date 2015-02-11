@@ -6,7 +6,7 @@ Job Notes and Documentation for Public Radio
 **Delivered Solution:** 
 
  - A program that estimates a backers received signal strength based on
-   data from KickStarter and the FCC. Definitions and material from this
+   data from KickStarter and the FCC.
 
  - Sorted lists of backers
 -- */reports/international.csv* List of backers without shipping address or with international shipping addresses.
@@ -56,7 +56,5 @@ d = acos( sin φ1 ⋅ sin φ2 + cos φ1 ⋅ cos φ2 ⋅ cos Δλ ) ⋅ R
 
 **Future developments:**
 	Minimizing the number of unprocessable call numbers requires more refined use of regular expressions and conditional statements. Extensive time spent building a robust system for processing that information was not in the scope the original project outline. 
- 
-**For the web:**
-	Researching, designing, and building this system into the web is a different project which will use elements of this project. 
+
 ![alt tag](http://danielgladstone.com/media/uploads/public_radio_updated.png)
